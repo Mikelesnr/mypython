@@ -1,3 +1,4 @@
-import utilities
+from utilities import divide as my_div
 
-print(utilities)
+
+print(my_div(3, 2))
